@@ -1,5 +1,5 @@
 # luxury-glassmorphism-effects
-> - Modern cinematic design. Now also add/update: - Smooth animations
+> - Modern cinematic design. Now also add/update: - Premium SaaS-style UI
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/luxury-glassmorphism-effects
