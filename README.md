@@ -1,5 +1,5 @@
 # luxury-glassmorphism-effects
-> - Modern cinematic design. Now also add/update: - Dark theme with elegant gradients
+> - Modern cinematic design. Now also add/update: - Mobile-first and fully responsive
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/luxury-glassmorphism-effects
