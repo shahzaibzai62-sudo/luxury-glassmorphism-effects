@@ -1,5 +1,5 @@
 # luxury-glassmorphism-effects
-> - Modern cinematic design. Now also add/update: - Mobile-first and fully responsive
+> - Modern cinematic design. Now also add/update: - Fast loading and SEO optimized
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/luxury-glassmorphism-effects
